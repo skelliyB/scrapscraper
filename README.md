@@ -6,7 +6,7 @@ I am updating it as much as possible
 i am the sole developer
 how it works is pretty simple it uses requests , beautiful soup, json, argparse , and PrettyPrint to make it look pretty
 
-#author
+author
 -- made by skelliyb and my alt is lemonsrC00l
 
 ```md
