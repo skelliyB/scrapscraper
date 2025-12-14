@@ -1,4 +1,5 @@
-# scrapscraper
+```md
+## scrapscraper
 Used for retrieving data from sites basically web scraping with python 
 #Key Items
 One its pretty quick and fast for first page depth 
@@ -6,7 +7,7 @@ I am updating it as much as possible
 i am the sole developer
 how it works is pretty simple it uses requests , beautiful soup, json, argparse , and PrettyPrint to make it look pretty
 
-author
+##author
 -- made by skelliyb and my alt is lemonsrC00l
 
 ```md
