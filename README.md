@@ -1,7 +1,7 @@
 ```md
 ## scrapscraper
 Used for retrieving data from sites basically web scraping with python 
-##Key Items
+##Uses
 One its pretty quick and fast for first page depth 
 I am updating it as much as possible
 i am the sole developer
