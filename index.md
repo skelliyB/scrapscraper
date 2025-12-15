@@ -43,6 +43,7 @@ One, it’s pretty quick and fast for first-page depth. I am updating it as much
 ```bash
 git clone https://github.com/skelliyB/scrapscraper
 cd scrapscraper
+pip install scrapscraper
 pip install -r requirements.txt
 
 
